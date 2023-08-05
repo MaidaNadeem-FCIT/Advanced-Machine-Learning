@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sales Prediction</title>
+</head>
+<body>
+    <h1>Sales Prediction</h1>
+    <h3>Enter Ad Budget</h3>
+    <form action="{{url_for('predict')}}" method="post">
+        <label for="tv">TV:</label><br>
+        <input type="text" name="tv" value=""/><br>
+
+        <label for="radio">Radio:</label><br>
+        <input type="text" name="radio" value=""/><br>
+
+        <label for="newspaper">Newspaper:</label><br>
+        <input type="text" name="newspaper" value=""/><br><br>
+
+        <input type="submit" value="predict"/></button><br>
+    </form>
+    <br><br>
+    <h4 style="color: violet;">{{ prediction_text }}</h4>
+</body>
+</html>
