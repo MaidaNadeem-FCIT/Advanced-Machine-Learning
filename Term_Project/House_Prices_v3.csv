@@ -1,0 +1,781 @@
+Address,Bedroom,Bathroom,Area,Price
+Johar Town,4,5,10 Marla,3.48 crore
+Al Rehman Garden,5,6,10 Marla,3.5 crore
+Al Rehman Garden,5,6,10 Marla,3.5 crore
+Johar Town,4,5,10 Marla,3.41 crore
+Al Rehman Garden,5,6,10 Marla,3.5 crore
+Johar Town,4,5,10 Marla,3.53 crore
+Al Rehman Garden,5,6,10 Marla,3.5 crore
+Johar Town,4,5,10 Marla,3.76 crore
+Al Rehman Garden,5,6,10 Marla,3.5 crore
+Al Rehman Garden,5,6,10 Marla,3.5 crore
+Al Rehman Garden,5,6,10 Marla,3.6 crore
+Al Rehman Garden,5,6,10 Marla,3.8 crore
+Al Rehman Garden,5,6,10 Marla,3.9 crore
+Al Rehman Garden,5,6,10 Marla,3.9 crore
+Al Rehman Garden,5,6,10 Marla,3.9 crore
+Al Rehman Garden,5,6,10 Marla,3.9 crore
+Al Rehman Garden,5,6,10 Marla,3.9 crore
+Al Rehman Garden,5,6,10 Marla,3.6 crore
+Al Rehman Garden,5,6,10 Marla,3.8 crore
+LDA Avenue,5,6,10 Marla,3.25 crore
+Al Rehman Garden,5,6,10 Marla,3.6 crore
+Al Rehman Garden,5,6,10 Marla,3.8 crore
+Al Rehman Garden,5,6,10 Marla,4.3 crore
+Al Rehman Garden,5,6,10 Marla,3.6 crore
+Al Rehman Garden,5,6,10 Marla,3.6 crore
+Al Rehman Garden,5,6,10 Marla,3.6 crore
+Bahria Town,2,2,8 Marla,1.65 crore
+Theme Park View,2,3,5 Marla,35 lac
+DHA,5,5,1 Kanal,12.85 crore
+DHA,5,5,1 Kanal,11 crore
+DHA,5,5,1 Kanal,11 crore
+DHA,5,5,1 Kanal,9.75 crore
+Canal Bank Road,2,2,2.5 Marla,65 lac
+DHA,4,4,10 Marla,2.9 crore
+Gulberg,2,3,2000 Sqft,7.5 crore
+DHA,4,5,10 Marla,3.52 crore
+DHA,4,5,10 Marla,3.4 crore
+DHA,4,5,10 Marla,3.48 crore
+DHA,4,5,10 Marla,3.55 crore
+DHA,4,5,10 Marla,3.52 crore
+DHA,4,5,10 Marla,3.5 crore
+DHA,4,5,10 Marla,3.48 crore
+DHA,4,5,10 Marla,3.45 crore
+DHA,4,5,10 Marla,3.64 crore
+DHA,4,5,10 Marla,3.6 crore
+DHA,4,5,10 Marla,3.66 crore
+DHA,4,5,10 Marla,3.65 crore
+DHA,4,5,10 Marla,3.63 crore
+DHA,4,5,10 Marla,3.62 crore
+DHA,4,5,10 Marla,3.61 crore
+DHA,4,5,10 Marla,3.6 crore
+DHA,4,5,10 Marla,3.59 crore
+DHA,4,5,10 Marla,3.58 crore
+DHA,4,5,10 Marla,3.57 crore
+DHA,4,5,10 Marla,3.56 crore
+DHA,4,5,10 Marla,3.55 crore
+DHA,4,5,10 Marla,3.54 crore
+DHA,4,5,10 Marla,3.53 crore
+DHA,4,5,10 Marla,3.52 crore
+DHA,4,5,10 Marla,3.48 crore
+DHA,4,5,10 Marla,3.48 crore
+DHA,4,5,10 Marla,3.46 crore
+DHA,4,5,10 Marla,3.45 crore
+DHA,4,5,10 Marla,3.42 crore
+DHA,4,5,10 Marla,3.4 crore
+DHA,4,5,10 Marla,3.38 crore
+DHA,4,5,10 Marla,3.27 crore
+DHA,4,5,10 Marla,3.25 crore
+DHA,4,5,10 Marla,3.47 crore
+DHA,4,5,10 Marla,3.46 crore
+DHA,4,5,10 Marla,3.45 crore
+DHA,4,5,10 Marla,3.44 crore
+DHA,4,5,10 Marla,3.42 crore
+DHA,4,5,10 Marla,3.41 crore
+DHA,4,5,10 Marla,3.4 crore
+DHA,4,5,10 Marla,3.39 crore
+DHA,4,5,10 Marla,3.38 crore
+DHA,4,5,10 Marla,3.37 crore
+DHA,4,5,10 Marla,3.36 crore
+DHA,4,5,10 Marla,3.35 crore
+DHA,4,5,10 Marla,3.34 crore
+Khayaban E Amin,2,2,5 Marla,75 lac
+Khayaban E Amin,2,2,5 Marla,75 lac
+Khayaban E Amin,2,2,5 Marla,75 lac
+Khayaban E Amin,2,2,5 Marla,75 lac
+Khayaban E Amin,2,2,5 Marla,75 lac
+Khayaban E Amin,2,2,5 Marla,75 lac
+Khayaban E Amin,2,2,5 Marla,75 lac
+Khayaban E Amin,2,2,5 Marla,75 lac
+Khayaban E Amin,2,2,5 Marla,75 lac
+Khayaban E Amin,2,2,5 Marla,75 lac
+Khayaban E Amin,2,2,5 Marla,75 lac
+Khayaban E Amin,2,2,5 Marla,75 lac
+Green City,4,5,9.5 Marla,3 crore
+DHA,4,5,10 Marla,3.32 crore
+DHA,4,5,10 Marla,3.31 crore
+DHA,4,5,10 Marla,3.3 crore
+DHA,4,5,10 Marla,3.29 crore
+DHA,4,5,10 Marla,3.28 crore
+DHA,4,5,10 Marla,3.27 crore
+DHA,4,5,10 Marla,3.26 crore
+DHA,4,5,10 Marla,3.25 crore
+DHA,4,5,10 Marla,3.22 crore
+DHA,4,5,10 Marla,3.2 crore
+DHA,3,3,5 Marla,2.95 crore
+DHA,5,5,1 Kanal,11.7 crore
+DHA,4,4,7.25 Marla,5.35 crore
+DHA,4,4,10 Marla,6.45 crore
+DHA,5,5,1 Kanal,10 crore
+Bahria Town,4,4,10 Marla,3.8 crore
+New Garden Town,4,3,1 Kanal,6.75 crore
+Lahore Cantt,4,5,16 Marla,8 crore
+Askari 11,4,5,10 Marla,4.5 crore
+Paragon City,5,6,10 Marla,4.8 crore
+DHA,5,7,10 Marla,5.5 crore
+DHA,3,4,5 Marla,2.5 crore
+China Scheme,2,3,7 Marla,2.5 crore
+DHA,5,5,1 Kanal,17.5 crore
+DHA,5,6,1 Kanal,9.15 crore
+DHA,5,6,1 Kanal,8 crore
+DHA,5,6,1 Kanal,7.85 crore
+Green City,5,6,10 Marla,4 crore
+Marghzar Colony,3,5,1 Kanal,75 crore
+Eden Boulevard,2,1,3.75 Marla,65 lac
+LDA Avenue,5,6,10 Marla,3.25 crore
+LDA Avenue,5,6,10 Marla,3.25 crore
+LDA Avenue,5,6,10 Marla,3.2 crore
+LDA Avenue,5,6,10 Marla,3.2 crore
+LDA Avenue,5,6,10 Marla,3.2 crore
+LDA Avenue,5,6,10 Marla,3.2 crore
+LDA Avenue,5,6,10 Marla,3.35 crore
+LDA Avenue,5,6,1 Kanal,3.7 crore
+LDA Avenue,5,6,10 Marla,3.25 crore
+LDA Avenue,5,6,10 Marla,3.25 crore
+LDA Avenue,5,6,1 Kanal,3.7 crore
+LDA Avenue,5,6,1 Kanal,3.7 crore
+LDA Avenue,5,6,1 Kanal,3.7 crore
+LDA Avenue,5,6,1 Kanal,3.73 crore
+LDA Avenue,6,5,10 Marla,3.25 crore
+LDA Avenue,5,6,10 Marla,3.25 crore
+LDA Avenue,5,6,10 Marla,3.25 crore
+LDA Avenue,5,6,10 Marla,3.25 crore
+LDA Avenue,5,6,10 Marla,3.25 crore
+LDA Avenue,5,6,10 Marla,3.25 crore
+LDA Avenue,5,6,10 Marla,3.25 crore
+LDA Avenue,5,6,10 Marla,3.25 crore
+LDA Avenue,5,6,10 Marla,3.2 crore
+LDA Avenue,6,5,10 Marla,3.25 crore
+LDA Avenue,6,5,10 Marla,3.25 crore
+LDA Avenue,6,5,10 Marla,3.25 crore
+LDA Avenue,6,5,10 Marla,3.25 crore
+LDA Avenue,6,5,10 Marla,3.25 crore
+LDA Avenue,5,6,10 Marla,3.2 crore
+LDA Avenue,5,6,10 Marla,3.25 crore
+LDA Avenue,5,6,10 Marla,3.2 crore
+LDA Avenue,5,6,10 Marla,3.25 crore
+LDA Avenue,5,6,10 Marla,3.25 crore
+LDA Avenue,5,6,10 Marla,3.25 crore
+LDA Avenue,5,6,10 Marla,3.25 crore
+DHA,5,6,1 Kanal,7.5 crore
+Bahria Town,4,5,10 Marla,3.84 crore
+Bahria Town,4,5,10 Marla,3.82 crore
+Bahria Town,4,5,10 Marla,3.8 crore
+Bahria Town,4,5,10 Marla,3.78 crore
+Bahria Town,4,5,10 Marla,3.77 crore
+Bahria Town,4,5,10 Marla,3.75 crore
+Bahria Town,4,5,10 Marla,3.73 crore
+Bahria Town,4,5,10 Marla,3.72 crore
+Bahria Town,4,5,10 Marla,3.71 crore
+Bahria Town,4,5,10 Marla,3.7 crore
+Bahria Town,4,5,10 Marla,3.69 crore
+Bahria Town,4,5,10 Marla,3.68 crore
+Bahria Town,4,5,10 Marla,3.67 crore
+DHA,5,6,1 Kanal,7.35 crore
+Al Rehman Garden,5,6,10 Marla,3.55 crore
+Bahria Town,4,5,10 Marla,3.66 crore
+Al Rehman Garden,5,6,10 Marla,3.55 crore
+Al Rehman Garden,5,6,10 Marla,3.5 crore
+Al Rehman Garden,5,6,10 Marla,3.5 crore
+Al Rehman Garden,5,6,10 Marla,3.5 crore
+Al Rehman Garden,5,6,10 Marla,3.5 crore
+Al Rehman Garden,5,6,10 Marla,3.6 crore
+Al Rehman Garden,5,6,10 Marla,3.6 crore
+Al Rehman Garden,5,6,10 Marla,3.6 crore
+Al Rehman Garden,5,6,10 Marla,3.6 crore
+Bahria Town,4,5,10 Marla,3.65 crore
+Bahria Town,4,5,10 Marla,3.63 crore
+Al Rehman Garden,5,6,10 Marla,4.3 crore
+Bahria Town,4,5,10 Marla,3.62 crore
+Al Rehman Garden,5,6,10 Marla,3.8 crore
+Al Rehman Garden,5,6,10 Marla,3.6 crore
+Bahria Town,4,5,10 Marla,3.6 crore
+Al Rehman Garden,5,6,10 Marla,3.9 crore
+Bahria Town,4,5,10 Marla,3.59 crore
+Al Rehman Garden,5,6,10 Marla,3.9 crore
+Bahria Town,4,5,10 Marla,3.58 crore
+Al Rehman Garden,5,6,10 Marla,3.8 crore
+Al Rehman Garden,5,6,10 Marla,3.6 crore
+DHA,5,6,1 Kanal,9 crore
+Al Rehman Garden,5,6,10 Marla,3.6 crore
+Al Rehman Garden,5,6,10 Marla,3.9 crore
+Al Rehman Garden,5,6,10 Marla,3.9 crore
+Bahria Town,4,5,10 Marla,3.57 crore
+Al Rehman Garden,5,6,10 Marla,3.9 crore
+Bahria Town,4,5,10 Marla,3.56 crore
+Bahria Town,4,5,10 Marla,3.55 crore
+DHA,5,6,1 Kanal,8.75 crore
+Al Rehman Garden,5,6,10 Marla,3.9 crore
+Al Rehman Garden,5,6,10 Marla,3.8 crore
+Al Rehman Garden,5,6,10 Marla,3.6 crore
+Al Rehman Garden,5,6,10 Marla,3.8 crore
+Al Rehman Garden,5,6,10 Marla,3.8 crore
+Al Rehman Garden,5,6,10 Marla,3.6 crore
+Al Rehman Garden,5,6,10 Marla,3.6 crore
+Al Rehman Garden,5,6,10 Marla,3.6 crore
+Al Rehman Garden,5,6,10 Marla,3.6 crore
+Al Rehman Garden,5,6,10 Marla,3.9 crore
+Al Rehman Garden,5,6,10 Marla,3.6 crore
+Al Rehman Garden,5,6,10 Marla,3.8 crore
+Al Rehman Garden,5,6,10 Marla,3.9 crore
+Al Rehman Garden,5,6,10 Marla,3.9 crore
+Al Rehman Garden,5,6,10 Marla,3.9 crore
+Al Rehman Garden,5,6,10 Marla,3.9 crore
+Al Rehman Garden,5,6,10 Marla,3.8 crore
+Al Rehman Garden,5,6,10 Marla,3.6 crore
+Al Rehman Garden,5,6,10 Marla,3.6 crore
+Al Rehman Garden,5,6,10 Marla,3.8 crore
+Al Rehman Garden,5,6,10 Marla,3.9 crore
+Al Rehman Garden,5,6,10 Marla,3.8 crore
+Al Rehman Garden,5,6,10 Marla,3.6 crore
+Al Rehman Garden,5,6,10 Marla,3.6 crore
+Al Rehman Garden,5,6,10 Marla,3.6 crore
+Al Rehman Garden,5,6,10 Marla,3.6 crore
+Al Rehman Garden,5,6,10 Marla,3.9 crore
+Al Rehman Garden,5,6,10 Marla,3.9 crore
+Al Rehman Garden,5,6,10 Marla,3.1 crore
+Al Rehman Garden,5,6,10 Marla,3.5 crore
+Al Rehman Garden,5,6,10 Marla,3.5 crore
+Bahria Town,4,5,10 Marla,3.54 crore
+Al Rehman Garden,5,6,10 Marla,3.5 crore
+Al Rehman Garden,5,6,10 Marla,3.5 crore
+Bahria Town,4,5,10 Marla,3.53 crore
+Bahria Town,4,5,10 Marla,3.52 crore
+Al Rehman Garden,5,6,10 Marla,3.5 crore
+Bahria Town,4,5,10 Marla,3.51 crore
+Al Rehman Garden,5,6,10 Marla,3.5 crore
+Al Rehman Garden,5,6,10 Marla,3.5 crore
+Al Rehman Garden,5,6,10 Marla,3.5 crore
+Bahria Town,4,5,10 Marla,3.5 crore
+Al Rehman Garden,5,6,10 Marla,3.5 crore
+Al Rehman Garden,5,6,10 Marla,3.5 crore
+Bahria Town,4,5,10 Marla,3.98 crore
+Al Rehman Garden,5,6,10 Marla,3.5 crore
+Al Rehman Garden,5,6,10 Marla,3.5 crore
+Bahria Town,4,5,10 Marla,3.97 crore
+Al Rehman Garden,5,6,10 Marla,3.5 crore
+Al Rehman Garden,5,6,10 Marla,3.5 crore
+Bahria Town,4,5,10 Marla,3.96 crore
+Bahria Town,4,5,10 Marla,3.95 crore
+Al Rehman Garden,5,6,10 Marla,3.5 crore
+Al Rehman Garden,5,6,10 Marla,3.5 crore
+Bahria Town,4,5,10 Marla,3.94 crore
+Al Rehman Garden,5,6,10 Marla,3.5 crore
+Bahria Town,4,5,10 Marla,3.93 crore
+Bahria Town,4,5,10 Marla,3.92 crore
+Al Rehman Garden,5,6,10 Marla,3.5 crore
+Bahria Town,4,5,10 Marla,3.91 crore
+Bahria Town,4,5,10 Marla,3.9 crore
+Bahria Town,4,5,10 Marla,3.89 crore
+Bahria Town,4,5,10 Marla,3.88 crore
+Bahria Town,4,5,10 Marla,3.87 crore
+Bahria Town,4,5,10 Marla,3.86 crore
+Bahria Town,4,5,10 Marla,3.85 crore
+Bahria Town,4,5,10 Marla,3.84 crore
+Bahria Town,4,5,10 Marla,3.83 crore
+Bahria Town,4,5,10 Marla,3.82 crore
+Bahria Town,4,5,10 Marla,3.81 crore
+Bahria Town,4,5,10 Marla,3.8 crore
+Bahria Town,4,5,10 Marla,3.79 crore
+Bahria Town,4,5,10 Marla,3.78 crore
+Bahria Town,4,5,10 Marla,3.77 crore
+Bahria Town,4,5,10 Marla,3.76 crore
+Bahria Town,4,5,10 Marla,3.75 crore
+Bahria Town,4,5,10 Marla,3.74 crore
+Bahria Town,4,5,10 Marla,3.73 crore
+Bahria Town,4,5,10 Marla,3.72 crore
+Bahria Town,4,5,10 Marla,3.71 crore
+Bahria Town,4,5,10 Marla,3.7 crore
+Bahria Town,4,5,10 Marla,3.69 crore
+Bahria Town,4,5,10 Marla,3.68 crore
+Bahria Town,4,5,10 Marla,3.67 crore
+Bahria Town,4,5,10 Marla,3.66 crore
+Bahria Town,4,5,10 Marla,3.65 crore
+Bahria Town,4,5,10 Marla,3.64 crore
+Bahria Town,4,5,10 Marla,3.63 crore
+Bahria Town,4,5,10 Marla,3.62 crore
+Bahria Town,4,5,10 Marla,3.61 crore
+Bahria Town,4,5,10 Marla,3.6 crore
+Bahria Town,4,5,10 Marla,3.59 crore
+Bahria Town,4,5,10 Marla,3.58 crore
+Bahria Town,4,5,10 Marla,3.58 crore
+Bahria Town,4,5,10 Marla,3.57 crore
+Bahria Town,4,5,10 Marla,3.56 crore
+Bahria Town,4,5,10 Marla,3.55 crore
+Johar Town,7,6,7.5 Marla,2.9 crore
+Johar Town,3,3,3 Marla,1.3 crore
+Garhi Shahu,6,4,5.25 Marla,1.65 crore
+Green City,3,4,5 Marla,2.25 crore
+Nadirabad,3,4,3 Marla,92 lac
+Lahore Medical Housing Society,7,7,10 Marla,2.6 crore
+DHA,5,6,1 Kanal,8.65 crore
+DHA,5,6,1 Kanal,8.45 crore
+Shad Bagh,4,3,5 Marla,1.5 crore
+Al Hafeez Gardens,3,3,3 Marla,1.4 crore
+DHA,6,6,1 Kanal,16 crore
+DHA,5,5,1 Kanal,12.5 crore
+Central Park Housing Scheme,3,4,845 Sqft,1.45 crore
+Ali Town,6,7,3.5 Marla,2.65 crore
+Thokar Niaz Baig,3,5,5 Marla,1.5 crore
+DHA,3,4,5 Marla,2.1 crore
+Samanabad,4,4,4 Marla,2.4 crore
+Sukh Chayn Gardens,5,6,14.5 Marla,5.25 crore
+DHA,6,6,2 Kanal,42 crore
+DHA,7,7,1 Kanal,16.5 crore
+DHA,5,5,1 Kanal,11.5 crore
+DHA,5,4,20 Marla,9 crore
+DHA,3,4,5 Marla,1.5 crore
+DHA,5,5,1 Kanal,12 crore
+DHA,5,5,1 Kanal,9.6 crore
+DHA,4,4,7 Marla,6.25 crore
+DHA,4,4,7 Marla,6.25 crore
+Al Kabir Town ,3,4,3 Marla,1.3 crore
+DHA,3,4,5 Marla,2.75 crore
+Cavalry Ground,4,4,10 Marla,4.75 crore
+DHA,6,6,2 Kanal,32 crore
+DHA,5,6,1 Kanal,12 crore
+Johar Town,4,5,10 Marla,3.69 crore
+Johar Town,4,5,10 Marla,3.85 crore
+Johar Town,4,5,10 Marla,3.9 crore
+Johar Town,3,4,5 Marla,2.68 crore
+Johar Town,3,4,5 Marla,2.65 crore
+Johar Town,4,5,10 Marla,3.77 crore
+Johar Town,4,5,10 Marla,3.76 crore
+Johar Town,3,4,5 Marla,2.54 crore
+Johar Town,3,4,5 Marla,2.56 crore
+Johar Town,4,5,10 Marla,3.82 crore
+Johar Town,4,5,10 Marla,3.8 crore
+Johar Town,4,5,10 Marla,3.78 crore
+Johar Town,4,5,10 Marla,3.76 crore
+Johar Town,4,5,10 Marla,3.74 crore
+Johar Town,4,5,10 Marla,3.72 crore
+Johar Town,4,5,10 Marla,3.7 crore
+Khayaban E Amin,2,2,5 Marla,70 lac
+Johar Town,4,5,10 Marla,3.68 crore
+Khayaban E Amin,2,2,5 Marla,70 lac
+Khayaban E Amin,2,2,5 Marla,70 lac
+Khayaban E Amin,2,2,5 Marla,70 lac
+Khayaban E Amin,2,2,5 Marla,70 lac
+Khayaban E Amin,2,2,5 Marla,70 lac
+Johar Town,3,4,5 Marla,2.38 crore
+Johar Town,3,4,5 Marla,2.38 crore
+Johar Town,4,5,10 Marla,3.67 crore
+Johar Town,4,5,10 Marla,3.66 crore
+Johar Town,3,4,5 Marla,2.7 crore
+Johar Town,3,4,5 Marla,2.65 crore
+Johar Town,4,5,10 Marla,3.57 crore
+Al Rehman Garden,5,6,10 Marla,3.5 crore
+Johar Town,4,5,10 Marla,3.56 crore
+Al Rehman Garden,5,6,10 Marla,3.5 crore
+Johar Town,4,5,10 Marla,3.54 crore
+Johar Town,3,4,5 Marla,2.44 crore
+Al Rehman Garden,5,6,10 Marla,3.5 crore
+Johar Town,3,4,5 Marla,2.42 crore
+Johar Town,4,5,10 Marla,3.89 crore
+Johar Town,4,5,10 Marla,3.87 crore
+Johar Town,3,4,5 Marla,2.68 crore
+Johar Town,3,4,5 Marla,2.65 crore
+Johar Town,3,4,5 Marla,2.43 crore
+Johar Town,3,4,5 Marla,2.4 crore
+Johar Town,3,4,5 Marla,2.46 crore
+Johar Town,4,5,10 Marla,3.67 crore
+Johar Town,4,5,10 Marla,3.66 crore
+Johar Town,4,5,10 Marla,3.64 crore
+Johar Town,3,4,5 Marla,2.52 crore
+Johar Town,4,5,10 Marla,3.85 crore
+Johar Town,4,5,10 Marla,3.9 crore
+Johar Town,4,5,10 Marla,3.63 crore
+Johar Town,4,5,10 Marla,3.85 crore
+Johar Town,4,5,10 Marla,3.48 crore
+Johar Town,3,4,5 Marla,2.55 crore
+Johar Town,3,4,5 Marla,2.45 crore
+Johar Town,4,5,10 Marla,3.62 crore
+Johar Town,4,5,10 Marla,3.6 crore
+Johar Town,4,5,10 Marla,3.55 crore
+Johar Town,4,5,10 Marla,3.5 crore
+Johar Town,4,5,10 Marla,3.65 crore
+Formanites Housing Scheme,5,6,10 Marla,3.1 crore
+Model Town,5,5,1.2 Kanal,18 crore
+DHA,5,5,1 Kanal,11.8 crore
+DHA,6,6,1 Kanal,13.5 crore
+DHA,5,5,1 Kanal,15 crore
+DHA,6,6,1 Kanal,15 crore
+Formanites Housing Scheme,5,5,10 Marla,3.15 crore
+DHA,6,6,1 Kanal,11.5 crore
+DHA,5,5,1 Kanal,14 crore
+DHA,5,5,20 Marla,8.95 crore
+DHA,3,4,5 Marla,2.1 crore
+DHA,5,5,1 Kanal,9 crore
+Khayaban E Amin,2,2,5 Marla,70 lac
+Khayaban E Amin,2,2,5 Marla,70 lac
+Khayaban E Amin,2,2,5 Marla,70 lac
+Khayaban E Amin,2,2,5 Marla,70 lac
+Khayaban E Amin,2,2,5 Marla,70 lac
+Wapda Town,4,5,10 Marla,3.97 crore
+Wapda Town,4,5,10 Marla,3.95 crore
+Wapda Town,4,5,10 Marla,3.94 crore
+Wapda Town,4,5,10 Marla,3.93 crore
+Bedian Road,3,3,3 Marla,92 lac
+Wapda Town,4,5,10 Marla,3.92 crore
+Wapda Town,4,5,10 Marla,3.9 crore
+Wapda Town,4,5,10 Marla,3.9 crore
+Wapda Town,4,5,10 Marla,3.88 crore
+Wapda Town,4,5,10 Marla,3.86 crore
+Wapda Town,4,5,10 Marla,3.85 crore
+Al Rehman Garden,5,6,10 Marla,3.55 crore
+Al Rehman Garden,5,6,10 Marla,3.55 crore
+Wapda Town,4,5,10 Marla,3.84 crore
+Al Rehman Garden,5,6,10 Marla,3.52 crore
+Al Rehman Garden,5,6,10 Marla,3.5 crore
+Tariq Garden,4,5,10 Marla,3.82 crore
+Al Rehman Garden,5,6,10 Marla,3.5 crore
+Tariq Garden,4,5,10 Marla,3.8 crore
+Defence Fort,3,3,3 Marla,1.25 crore
+Al Rehman Garden,5,6,10 Marla,3.5 crore
+Tariq Garden,4,5,10 Marla,3.78 crore
+Tariq Garden,4,5,10 Marla,3.76 crore
+Tariq Garden,4,5,10 Marla,3.75 crore
+Tariq Garden,4,5,10 Marla,4.23 crore
+Tariq Garden,4,5,10 Marla,4.22 crore
+Al Rehman Garden,5,6,10 Marla,3.5 crore
+Tariq Garden,4,5,10 Marla,4.2 crore
+Tariq Garden,4,5,10 Marla,4.18 crore
+Tariq Garden,4,5,10 Marla,4.1 crore
+Tariq Garden,4,5,10 Marla,4.15 crore
+Tariq Garden,4,5,10 Marla,4.14 crore
+Al Rehman Garden,5,6,10 Marla,3.5 crore
+Al Rehman Garden,5,6,10 Marla,3.5 crore
+Tariq Garden,4,5,10 Marla,4.13 crore
+Al Rehman Garden,5,6,10 Marla,3.5 crore
+Tariq Garden,4,5,10 Marla,4.12 crore
+Al Rehman Garden,5,6,10 Marla,3.5 crore
+Tariq Garden,4,5,10 Marla,4.1 crore
+Al Rehman Garden,5,6,10 Marla,3.5 crore
+Al Rehman Garden,5,6,10 Marla,3.5 crore
+Al Rehman Garden,5,6,10 Marla,3.5 crore
+Al Rehman Garden,5,6,10 Marla,3.5 crore
+Al Rehman Garden,5,6,10 Marla,3.5 crore
+Al Rehman Garden,5,6,10 Marla,3.5 crore
+LDA Avenue,5,6,10 Marla,3.25 crore
+LDA Avenue,5,6,10 Marla,3.25 crore
+LDA Avenue,5,6,10 Marla,3.25 crore
+LDA Avenue,5,6,10 Marla,3.25 crore
+LDA Avenue,5,6,10 Marla,3.25 crore
+LDA Avenue,5,6,10 Marla,3.25 crore
+LDA Avenue,5,6,10 Marla,3.25 crore
+LDA Avenue,5,6,10 Marla,3.25 crore
+LDA Avenue,5,6,10 Marla,3.25 crore
+LDA Avenue,5,6,10 Marla,3.25 crore
+LDA Avenue,5,6,10 Marla,3.25 crore
+LDA Avenue,5,6,10 Marla,3.25 crore
+LDA Avenue,5,6,10 Marla,3.25 crore
+LDA Avenue,5,6,10 Marla,3.25 crore
+LDA Avenue,5,6,10 Marla,3.25 crore
+LDA Avenue,5,6,10 Marla,3.25 crore
+LDA Avenue,5,6,10 Marla,3.2 crore
+Tariq Garden,4,5,10 Marla,4.08 crore
+Tariq Garden,4,5,10 Marla,4.06 crore
+LDA Avenue,5,6,10 Marla,3.25 crore
+Tariq Garden,4,5,10 Marla,4.05 crore
+Tariq Garden,4,5,10 Marla,4.03 crore
+Tariq Garden,4,5,10 Marla,4.03 crore
+LDA Avenue,5,6,10 Marla,3.25 crore
+LDA Avenue,5,6,10 Marla,3.25 crore
+Tariq Garden,4,5,10 Marla,4.02 crore
+LDA Avenue,5,6,10 Marla,3.25 crore
+LDA Avenue,5,6,10 Marla,3.25 crore
+Tariq Garden,4,5,10 Marla,3.98 crore
+Tariq Garden,4,5,10 Marla,3.97 crore
+LDA Avenue,5,6,10 Marla,3.25 crore
+LDA Avenue,5,6,10 Marla,3.25 crore
+LDA Avenue,5,6,10 Marla,3.25 crore
+Tariq Garden,4,5,10 Marla,3.96 crore
+LDA Avenue,5,6,10 Marla,3.25 crore
+Tariq Garden,4,5,10 Marla,3.93 crore
+Tariq Garden,4,5,10 Marla,3.92 crore
+LDA Avenue,5,6,10 Marla,3.25 crore
+Tariq Garden,4,5,10 Marla,3.91 crore
+Tariq Garden,4,5,10 Marla,3.9 crore
+Tariq Garden,4,5,10 Marla,3.89 crore
+Tariq Garden,4,5,10 Marla,3.88 crore
+Tariq Garden,4,5,10 Marla,3.87 crore
+LDA Avenue,5,6,10 Marla,3.25 crore
+Tariq Garden,4,5,10 Marla,3.86 crore
+Tariq Garden,4,5,10 Marla,3.85 crore
+Tariq Garden,4,5,10 Marla,3.84 crore
+Tariq Garden,4,5,10 Marla,3.83 crore
+Tariq Garden,4,5,10 Marla,3.82 crore
+Tariq Garden,4,5,10 Marla,3.8 crore
+Tariq Garden,4,5,10 Marla,3.78 crore
+Tariq Garden,4,5,10 Marla,3.77 crore
+Tariq Garden,4,5,10 Marla,3.77 crore
+Tariq Garden,4,5,10 Marla,3.76 crore
+Tariq Garden,4,5,10 Marla,3.75 crore
+Johar Town,3,4,5 Marla,75000
+Aashiana E Quaid Housing Scheme,2,2,3 Marla,70 lac
+Model Town,4,5,10 Marla,6.4 crore
+Model Town,4,5,10 Marla,5.6 crore
+Model Town,4,5,10 Marla,5.8 crore
+Model Town,4,5,10 Marla,5.8 crore
+Model Town,4,5,10 Marla,6.2 crore
+Model Town,4,5,10 Marla,6.5 crore
+Model Town,4,5,10 Marla,6.5 crore
+New Garden Town,4,5,10 Marla,8.2 crore
+New Garden Town,4,5,10 Marla,6.6 crore
+New Garden Town,4,5,10 Marla,6.7 crore
+New Garden Town,4,5,10 Marla,6.5 crore
+Faisal Town,4,5,10 Marla,6.1 crore
+Faisal Town,4,5,10 Marla,8 crore
+Faisal Town,4,5,10 Marla,7.6 crore
+Faisal Town,4,5,10 Marla,7.4 crore
+Faisal Town,4,5,10 Marla,7.4 crore
+Model Town,4,5,10 Marla,7.3 crore
+Model Town,4,5,10 Marla,7.9 crore
+Model Town,4,5,10 Marla,7.6 crore
+Faisal Town,4,5,10 Marla,7 crore
+Faisal Town,4,5,10 Marla,6.5 crore
+DHA,3,4,5 Marla,2.25 crore
+DHA,5,5,1 Kanal,14.8 crore
+Walton Road,7,5,2.5 Marla,85 lac
+DHA,5,6,1 Kanal,8.95 crore
+DHA,5,6,1 Kanal,8.95 crore
+DHA,4,5,1 Kanal,7.5 crore
+DHA,3,4,5 Marla,2.05 crore
+DHA,3,4,5 Marla,2.12 crore
+Johar Town,3,4,5 Marla,2.5 crore
+Johar Town,3,4,5 Marla,2.55 crore
+Johar Town,3,4,5 Marla,2.57 crore
+Johar Town,4,5,10 Marla,3.82 crore
+Johar Town,4,5,10 Marla,3.78 crore
+Johar Town,3,4,5 Marla,2.58 crore
+Johar Town,3,4,5 Marla,2.55 crore
+Johar Town,4,5,10 Marla,3.69 crore
+Johar Town,4,5,10 Marla,3.68 crore
+Johar Town,4,5,10 Marla,3.65 crore
+Johar Town,3,4,5 Marla,2.48 crore
+Johar Town,3,4,5 Marla,2.35 crore
+Johar Town,4,5,10 Marla,3.87 crore
+Johar Town,4,5,10 Marla,3.85 crore
+Johar Town,3,4,5 Marla,2.54 crore
+Johar Town,4,5,10 Marla,3.96 crore
+Johar Town,4,5,10 Marla,3.94 crore
+Johar Town,4,5,10 Marla,3.93 crore
+Johar Town,4,5,10 Marla,3.9 crore
+Johar Town,4,5,10 Marla,3.89 crore
+Johar Town,4,5,10 Marla,3.84 crore
+Johar Town,4,5,10 Marla,3.82 crore
+Johar Town,4,5,10 Marla,3.87 crore
+Johar Town,4,5,10 Marla,3.92 crore
+DHA,7,8,1 Kanal,15 crore
+Johar Town,3,4,5 Marla,2.47 crore
+Johar Town,3,4,5 Marla,2.47 crore
+Johar Town,3,4,5 Marla,2.45 crore
+Johar Town,4,5,10 Marla,3.57 crore
+Johar Town,4,5,10 Marla,3.54 crore
+Model Town,4,5,10 Marla,7.6 crore
+Johar Town,4,5,10 Marla,3.72 crore
+Johar Town,4,5,10 Marla,3.7 crore
+Model Town,4,5,10 Marla,7.9 crore
+Johar Town,4,5,10 Marla,3.68 crore
+Johar Town,4,5,10 Marla,3.66 crore
+Johar Town,4,5,10 Marla,3.65 crore
+Johar Town,4,5,10 Marla,3.64 crore
+Model Town,4,5,10 Marla,7.3 crore
+Johar Town,4,5,10 Marla,3.62 crore
+Johar Town,4,5,10 Marla,3.56 crore
+Faisal Town,4,5,10 Marla,7.4 crore
+Johar Town,4,5,10 Marla,3.54 crore
+Johar Town,4,5,10 Marla,3.52 crore
+Johar Town,4,5,10 Marla,3.5 crore
+Faisal Town,4,5,10 Marla,7.3 crore
+Johar Town,4,5,10 Marla,3.95 crore
+Faisal Town,4,5,10 Marla,7.4 crore
+Johar Town,4,5,10 Marla,3.9 crore
+Faisal Town,4,5,10 Marla,7.6 crore
+Johar Town,4,5,10 Marla,3.58 crore
+Faisal Town,4,5,10 Marla,8 crore
+Johar Town,4,5,10 Marla,3.72 crore
+Faisal Town,4,5,10 Marla,6.1 crore
+Johar Town,4,5,10 Marla,3.68 crore
+Johar Town,4,5,10 Marla,3.65 crore
+Johar Town,4,5,10 Marla,3.65 crore
+Johar Town,4,5,10 Marla,3.6 crore
+Johar Town,4,5,10 Marla,3.75 crore
+Johar Town,4,5,10 Marla,3.92 crore
+New Garden Town,4,5,10 Marla,6.3 crore
+Johar Town,4,5,10 Marla,3.95 crore
+Johar Town,4,5,10 Marla,3.4 crore
+New Garden Town,4,5,10 Marla,6.5 crore
+New Garden Town,4,5,10 Marla,6.7 crore
+New Garden Town,4,5,10 Marla,6.7 crore
+New Garden Town,4,5,10 Marla,6.6 crore
+New Garden Town,4,5,10 Marla,8.2 crore
+Model Town,4,5,10 Marla,6.5 crore
+Model Town,4,5,10 Marla,6.2 crore
+Model Town,4,5,10 Marla,5.6 crore
+Model Town,4,5,10 Marla,5.8 crore
+Model Town,4,5,10 Marla,5.6 crore
+Model Town,4,5,10 Marla,6.4 crore
+Model Town,4,5,10 Marla,6.5 crore
+Model Town,4,5,10 Marla,8.3 crore
+Model Town,4,5,10 Marla,8.5 crore
+Model Town,4,5,10 Marla,8.2 crore
+Model Town,4,5,10 Marla,8.5 crore
+Model Town,4,5,10 Marla,7.5 crore
+Faisal Town,4,5,10 Marla,5.8 crore
+Faisal Town,4,5,10 Marla,5.6 crore
+Faisal Town,4,5,10 Marla,5.2 crore
+Faisal Town,4,5,10 Marla,5.2 crore
+Model Town,4,5,10 Marla,6.6 crore
+Model Town,4,5,10 Marla,7.5 crore
+Central Park Housing Scheme,3,4,845 Sqft,1.45 crore
+DHA,3,4,5 Marla,2.1 crore
+DHA,5,5,1 Kanal,11.5 crore
+DHA,5,4,20 Marla,9 crore
+DHA,3,4,5 Marla,1.5 crore
+DHA,5,5,1 Kanal,12 crore
+DHA,5,5,1 Kanal,9.6 crore
+Al Kabir Town ,3,4,3 Marla,1.3 crore
+DHA,3,4,5 Marla,2.75 crore
+Cavalry Ground,4,4,10 Marla,4.75 crore
+DHA,6,6,2 Kanal,32 crore
+DHA,5,6,1 Kanal,12 crore
+DHA,5,6,1 Kanal,8.55 crore
+Johar Town,4,5,10 Marla,3.69 crore
+Johar Town,4,5,10 Marla,3.85 crore
+Johar Town,4,5,10 Marla,3.9 crore
+Johar Town,3,4,5 Marla,2.68 crore
+Johar Town,3,4,5 Marla,2.65 crore
+Johar Town,4,5,10 Marla,3.77 crore
+Johar Town,4,5,10 Marla,3.76 crore
+Johar Town,3,4,5 Marla,2.54 crore
+Johar Town,3,4,5 Marla,2.56 crore
+Johar Town,4,5,10 Marla,3.82 crore
+Johar Town,4,5,10 Marla,3.8 crore
+Johar Town,4,5,10 Marla,3.78 crore
+Johar Town,4,5,10 Marla,3.76 crore
+Johar Town,4,5,10 Marla,3.74 crore
+Johar Town,4,5,10 Marla,3.72 crore
+Johar Town,4,5,10 Marla,3.7 crore
+Khayaban E Amin,2,2,5 Marla,70 lac
+Central Park Housing Scheme,3,4,845 Sqft,1.45 crore
+DHA,3,4,5 Marla,2.1 crore
+DHA,5,5,1 Kanal,11.5 crore
+DHA,5,4,20 Marla,9 crore
+DHA,3,4,5 Marla,1.5 crore
+DHA,5,5,1 Kanal,12 crore
+DHA,5,5,1 Kanal,9.6 crore
+Al Kabir Town ,3,4,3 Marla,1.3 crore
+DHA,3,4,5 Marla,2.75 crore
+Cavalry Ground,4,4,10 Marla,4.75 crore
+DHA,6,6,2 Kanal,32 crore
+DHA,5,6,1 Kanal,12 crore
+DHA,5,6,1 Kanal,8.55 crore
+Johar Town,4,5,10 Marla,3.69 crore
+Johar Town,4,5,10 Marla,3.85 crore
+Johar Town,4,5,10 Marla,3.9 crore
+Johar Town,3,4,5 Marla,2.68 crore
+Johar Town,3,4,5 Marla,2.65 crore
+Johar Town,4,5,10 Marla,3.77 crore
+Johar Town,4,5,10 Marla,3.76 crore
+Johar Town,3,4,5 Marla,2.54 crore
+Johar Town,3,4,5 Marla,2.56 crore
+Johar Town,4,5,10 Marla,3.82 crore
+Johar Town,4,5,10 Marla,3.8 crore
+Johar Town,4,5,10 Marla,3.78 crore
+Johar Town,4,5,10 Marla,3.76 crore
+Johar Town,4,5,10 Marla,3.74 crore
+Johar Town,4,5,10 Marla,3.72 crore
+Johar Town,4,5,10 Marla,3.7 crore
+Khayaban E Amin,2,2,5 Marla,70 lac
+Johar Town,4,5,10 Marla,3.68 crore
+Khayaban E Amin,2,2,5 Marla,70 lac
+Khayaban E Amin,2,2,5 Marla,70 lac
+Khayaban E Amin,2,2,5 Marla,70 lac
+Khayaban E Amin,2,2,5 Marla,70 lac
+Khayaban E Amin,2,2,5 Marla,70 lac
+Johar Town,3,4,5 Marla,2.38 crore
+Johar Town,4,5,10 Marla,3.67 crore
+Johar Town,4,5,10 Marla,3.66 crore
+Johar Town,3,4,5 Marla,2.7 crore
+Johar Town,3,4,5 Marla,2.65 crore
+Johar Town,4,5,10 Marla,3.57 crore
+Al Rehman Garden,5,6,10 Marla,3.5 crore
+Johar Town,4,5,10 Marla,3.56 crore
+Al Rehman Garden,5,6,10 Marla,3.5 crore
+Johar Town,4,5,10 Marla,3.54 crore
+Johar Town,3,4,5 Marla,2.44 crore
+Al Rehman Garden,5,6,10 Marla,3.5 crore
+Johar Town,3,4,5 Marla,2.42 crore
+Johar Town,4,5,10 Marla,3.89 crore
+Johar Town,4,5,10 Marla,3.87 crore
+Johar Town,3,4,5 Marla,2.68 crore
+Johar Town,3,4,5 Marla,2.65 crore
+Johar Town,3,4,5 Marla,2.43 crore
+Johar Town,3,4,5 Marla,2.4 crore
+Johar Town,3,4,5 Marla,2.46 crore
+Johar Town,4,5,10 Marla,3.67 crore
+Johar Town,4,5,10 Marla,3.66 crore
+Johar Town,4,5,10 Marla,3.64 crore
+Johar Town,3,4,5 Marla,2.52 crore
+Johar Town,4,5,10 Marla,3.85 crore
+Johar Town,4,5,10 Marla,3.9 crore
+Johar Town,4,5,10 Marla,3.63 crore
+Johar Town,4,5,10 Marla,3.85 crore
+Johar Town,4,5,10 Marla,3.48 crore
+Johar Town,3,4,5 Marla,2.55 crore
+Johar Town,3,4,5 Marla,2.45 crore
+Johar Town,4,5,10 Marla,3.62 crore
+Johar Town,4,5,10 Marla,3.6 crore
+Johar Town,4,5,10 Marla,3.55 crore
+Johar Town,4,5,10 Marla,3.5 crore
+Johar Town,4,5,10 Marla,3.65 crore
+Formanites Housing Scheme,5,6,10 Marla,3.1 crore
+Model Town,5,5,1.2 Kanal,18 crore
+DHA,5,5,1 Kanal,11.8 crore
+DHA,6,6,1 Kanal,13.5 crore
+DHA,5,5,1 Kanal,15 crore
+DHA,6,6,1 Kanal,15 crore
+Formanites Housing Scheme,5,5,10 Marla,3.15 crore
+DHA,6,6,1 Kanal,11.5 crore
+DHA,5,5,1 Kanal,14 crore
+DHA,5,5,20 Marla,8.95 crore
+DHA,3,4,5 Marla,2.1 crore
+DHA,5,5,1 Kanal,9 crore
+Khayaban E Amin,2,2,5 Marla,70 lac
+Khayaban E Amin,2,2,5 Marla,70 lac
+Khayaban E Amin,2,2,5 Marla,70 lac
+Khayaban E Amin,2,2,5 Marla,70 lac
+Khayaban E Amin,2,2,5 Marla,70 lac
+Wapda Town,4,5,10 Marla,3.97 crore
+Wapda Town,4,5,10 Marla,3.95 crore
+Wapda Town,4,5,10 Marla,3.94 crore
+Wapda Town,4,5,10 Marla,3.93 crore
+Bedian Road,3,3,3 Marla,92 lac
+Wapda Town,4,5,10 Marla,3.92 crore
+Wapda Town,4,5,10 Marla,3.9 crore
+Wapda Town,4,5,10 Marla,3.88 crore
+Wapda Town,4,5,10 Marla,3.86 crore
+Wapda Town,4,5,10 Marla,3.85 crore
+Al Rehman Garden,5,6,10 Marla,3.55 crore
+Al Rehman Garden,5,6,10 Marla,3.55 crore
+Wapda Town,4,5,10 Marla,3.84 crore
+Al Rehman Garden,5,6,10 Marla,3.52 crore
+Al Rehman Garden,5,6,10 Marla,3.5 crore
+Tariq Garden,4,5,10 Marla,3.82 crore
+Al Rehman Garden,5,6,10 Marla,3.5 crore
+Tariq Garden,4,5,10 Marla,3.8 crore
+Defence Fort,3,3,3 Marla,1.25 crore
+Al Rehman Garden,5,6,10 Marla,3.5 crore
+Tariq Garden,4,5,10 Marla,3.78 crore
+Tariq Garden,4,5,10 Marla,3.76 crore
+Tariq Garden,4,5,10 Marla,3.75 crore
+Tariq Garden,4,5,10 Marla,4.23 crore
+Tariq Garden,4,5,10 Marla,4.22 crore
+Al Rehman Garden,5,6,10 Marla,3.5 crore
+Tariq Garden,4,5,10 Marla,4.2 crore
+Tariq Garden,4,5,10 Marla,4.18 crore
+Tariq Garden,4,5,10 Marla,4.1 crore
+Tariq Garden,4,5,10 Marla,4.15 crore
+Tariq Garden,4,5,10 Marla,4.14 crore
